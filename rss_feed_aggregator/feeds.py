@@ -1,0 +1,6 @@
+FEEDS = [
+    {
+        "name": "NASA",
+        "url": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
+    },
+]
