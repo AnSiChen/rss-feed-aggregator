@@ -2,7 +2,7 @@
 
 A small, framework-independent Python engine for pulling articles from curated RSS/Atom feeds, normalizing inconsistent feed metadata into one common model, and returning a combined newest-first collection.
 
-The project began as a standalone NASA feed experiment and later evolved inside the Reading section of `anthonyem.com`. This repository now contains the mature generic aggregation logic extracted back out of that portfolio integration, without any Flask, Jinja, Markdown, or presentation-layer code.
+The project began as a standalone NASA feed experiment and later evolved inside the Reading section of `anthony.3sc.me`. This repository now contains the mature generic aggregation logic extracted back out of that portfolio integration, without any Flask, Jinja, Markdown, or presentation-layer code.
 
 ## Features
 
